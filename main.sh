@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 function getLength()
 {
   local string=$1
